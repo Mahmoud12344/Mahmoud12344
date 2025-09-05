@@ -33,9 +33,10 @@ I'm a computer science student and a mobile dev intern, and I'm having a great t
 * **VS Code**  
 * **IntelliJ**  
 * **Android Studio**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 My GitHub Stats
 <div align="center">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DMahmoud12344%26theme%3Ddark" alt="GitHub Streak" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMahmoud12344%26show_icons%3Dtrue%26theme%3Ddark" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMahmoud12344%26theme%3Ddark%26layout%3Dcompact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Mahmoud12344&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud12344&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud12344&theme=dark&layout=compact" alt="Top Languages" />
 </div>
