@@ -2,7 +2,7 @@
 
 # Mahmoud Mohsen
 
-### Mobile Developer | Android Specialist | Computer Science Student
+### Mobile Developer | Computer Science Student
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoud12344.github.io/Mahmoud_Mohsen/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mohsen-28b35722a)
@@ -23,6 +23,30 @@ Mobile Developer with expertise in **Android development** using modern technolo
 - **Firebase Integration** for backend services
 - **Database Management** with Room DB and SQL
 - **Version Control** and collaborative development with Git
+
+---
+
+## 🎓 Education & Certification
+
+### **Egyptian E-Learning University (EELU)**
+**Bachelor of Computer Science** | *Current*
+- Gaining strong foundation in algorithms, data structures, and software engineering principles.
+
+### **Digital Egypt Pioneers Initiative (DEPI)**
+**Android App Development Track** | *Completed*
+- Intensive training program focused on modern Android development practices.
+- Mastered Kotlin, Jetpack Compose, and mobile architecture patterns.
+
+---
+
+## 📱 Featured Projects
+
+### **🏛️ Egypt Tour** (Graduation Project)
+*Status: 🚧 In Progress (Beta)*
+
+A comprehensive mobile application designed to promote Egyptian tourism by showcasing landmarks across all governorates.
+- **Key Features:** Interactive governorate-based navigation, detailed landmark information, and offline capabilities.
+- **Tech Stack:** Kotlin, Jetpack Compose, Room DB, Coroutines, MVVM Architecture.
 
 ---
 
@@ -67,8 +91,5 @@ I'm actively seeking opportunities to:
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahmoud12344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahmoud12344&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mahmoud12344&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
