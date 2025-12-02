@@ -46,7 +46,7 @@ Mobile Developer with expertise in **Android development** using modern technolo
 
 A comprehensive mobile application designed to promote Egyptian tourism by showcasing landmarks across all governorates.
 - **Key Features:** Interactive governorate-based navigation, detailed landmark information, and offline capabilities.
-- **Tech Stack:** Kotlin, Jetpack Compose, Room DB, Coroutines, MVVM Architecture.
+- **Tech Stack:** Kotlin, Jetpack Compose, MVVM Architecture.
 
 ---
 
@@ -87,9 +87,7 @@ I'm actively seeking opportunities to:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud12344&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahmoud12344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
+<img src="https://streak-stats.demolab.com?user=Mahmoud12344&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahmoud12344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 
 </div>
