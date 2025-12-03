@@ -89,9 +89,7 @@ I'm actively seeking opportunities to:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mahmoud12344&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahmoud12344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-
-</div>
+<p align="center">
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahmoud12344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahmoud12344&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
+</p>
